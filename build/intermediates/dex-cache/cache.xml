@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/ericchiu/Workspace/Android/sim-fb-app/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-29ef857042c2e5b2bd8725c212d7358fc0e930ba.jar"
+        jar="/Users/ericchiu/Workspace/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+
+</pre-dex-items>
